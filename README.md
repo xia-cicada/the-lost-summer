@@ -1,8 +1,3 @@
-# 一个简单的 Vue 项目模板
+# THE LOST SUMMER
 
-- Vue3
-- TS、Setup
-- UnoCSS、Iconify
-- Naive UI
-- Pinia
-- Vue Router
+遗落的夏天。
